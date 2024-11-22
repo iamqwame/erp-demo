@@ -1,0 +1,7 @@
+django
+djangorestframework
+environs
+djangorestframework-simplejwt
+python-decouple
+pip install drf-yasg
+django-extensions
